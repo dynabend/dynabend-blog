@@ -5,11 +5,24 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'bitbend/bitbend-blog',
+        repoId: 'R_kgDONWz2yw',
+        category: 'Q&A',
+        categoryId: 'DIC_kwDONWz2y84Ckvl-',
+        themeUrl: 'https://bitbend.github.io/bitbend-blog/static/giscus',
+        lightTheme: 'atom-one-light',
+        darkTheme: 'atom-one-dark'
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/bitbend/bitbend-blog",
+      Discord: "https://discord.gg/HVCwQkyMMg",
     },
   }),
 }
