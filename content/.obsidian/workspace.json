@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53659757fb6f3070",
+        "id": "5ba10efd195941df",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ac68208ed70312",
+            "id": "559fbb09119f9a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "templates/journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "journal"
             }
           }
         ]
@@ -181,18 +181,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3ac68208ed70312",
+  "active": "559fbb09119f9a3c",
   "lastOpenFiles": [
+    "templates/atom.md",
+    "templates/journal.md",
+    "templates/post.md",
+    "templates/note.md",
+    "templates/fragments.md",
+    "index.md",
+    "posts/BitBend.md",
     "apps/index.md",
     "atoms/index.md",
     "notes/BitBend.md",
     "apps",
     "posts/Optimistic Concurrency in a Pessimistic World.md",
-    "index.md",
     "notes/ReactorDB.md",
     "attachments/TeaPartyDev.jpg",
     "attachments/TeaPartyDev.png",
@@ -212,18 +218,11 @@
     "apps/CookieJar.md",
     "apps",
     "apps",
-    "templates/atom.md",
     "services",
     "posts/Automated Query Caching for Postgres and YugabyteDB.md",
-    "templates/fragments.md",
-    "templates/journal.md",
-    "templates/note.md",
-    "templates/post.md",
     "notes/For Devs.md",
     "notes/For Developers.md",
     "notes/Developer Tools.md",
-    "notes/Developer Tools and Services.md",
-    "posts/Zero Downtime Database Schema Migrations.md",
     "attachments/DriftMind.jpg",
     "whiteboards/Untitled.canvas",
     "novels/continuum",
