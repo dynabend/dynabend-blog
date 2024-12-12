@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "DynaBend",
+    pageTitle: "BitBend",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dynabend.github.io/dynabend-blog",
+    baseUrl: "bitbend.github.io/bitbend-blog",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     theme: {

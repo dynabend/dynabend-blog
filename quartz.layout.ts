@@ -9,11 +9,11 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'dynabend/dynabend-blog',
+        repo: 'bitbend/bitbend-blog',
         repoId: 'R_kgDONWz2yw',
         category: 'Q&A',
         categoryId: 'DIC_kwDONWz2y84Ckvl-',
-        themeUrl: 'https://dynabend.github.io/dynabend-blog/static/giscus',
+        themeUrl: 'https://bitbend.github.io/bitbend-blog/static/giscus',
         lightTheme: 'atom-one-light',
         darkTheme: 'atom-one-dark'
       }
@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/dynabend/dynabend-blog",
+      GitHub: "https://github.com/bitbend/bitbend-blog",
       Discord: "https://discord.gg/HVCwQkyMMg",
     },
   }),
