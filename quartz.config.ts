@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "bitbend.github.io/bitbend-blog",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -51,7 +52,6 @@ const config: QuartzConfig = {
         },
       },
     },
-    generateSocialImages: true
   },
   plugins: {
     transformers: [
