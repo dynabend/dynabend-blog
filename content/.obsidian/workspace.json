@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95b79c770dcbe365",
+        "id": "101fcf0971662325",
         "type": "tabs",
         "children": [
           {
-            "id": "305793dbdd1f16da",
+            "id": "58a7cfed7a4e5e42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/BitBend.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BitBend"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 244.5
   },
   "right": {
     "id": "f12d74b95614ed46",
@@ -181,9 +186,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6c30f182e4d656e",
+  "active": "58a7cfed7a4e5e42",
   "lastOpenFiles": [
     "index.md",
+    "notes/BitBend.md",
+    "posts/index.md",
     "posts/BitBend.md",
     "templates/journal.md",
     "journals/2024-12-10.md",
@@ -191,11 +198,9 @@
     "templates/fragments.md",
     "templates/note.md",
     "templates/post.md",
-    "posts/index.md",
     "posts/BitBend.md",
     "apps/index.md",
     "atoms/index.md",
-    "notes/BitBend.md",
     "apps",
     "posts/Optimistic Concurrency in a Pessimistic World.md",
     "notes/ReactorDB.md",
@@ -219,7 +224,6 @@
     "apps",
     "services",
     "posts/Automated Query Caching for Postgres and YugabyteDB.md",
-    "notes/For Devs.md",
     "attachments/DriftMind.jpg",
     "whiteboards/Untitled.canvas",
     "novels/continuum",
