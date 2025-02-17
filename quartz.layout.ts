@@ -13,7 +13,7 @@ export const sharedPageComponents: SharedLayout = {
         repoId: 'R_kgDONWz2yw',
         category: 'Q&A',
         categoryId: 'DIC_kwDONWz2y84Ckvl-',
-        themeUrl: 'https://bitbend.github.io/bitbend-blog/static/giscus',
+        themeUrl: 'https://bitbend.is-a.dev/static/giscus',
         lightTheme: 'atom-one-light',
         darkTheme: 'atom-one-dark',
         mapping: "pathname"
