@@ -15,7 +15,8 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDONWz2y84Ckvl-',
         themeUrl: 'https://bitbend.github.io/bitbend-blog/static/giscus',
         lightTheme: 'atom-one-light',
-        darkTheme: 'atom-one-dark'
+        darkTheme: 'atom-one-dark',
+        mapping: "pathname"
       }
     }),
   ],
