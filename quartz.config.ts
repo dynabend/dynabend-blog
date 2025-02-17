@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "bitbend.github.io/bitbend-blog",
+    baseUrl: "bitbend.is-a.dev",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
